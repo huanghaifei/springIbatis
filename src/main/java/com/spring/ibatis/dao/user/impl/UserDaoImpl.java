@@ -11,6 +11,7 @@ import com.spring.ibatis.pojo.User;
  * 用户信息持久层实现类
  * @author haifei.huang
  * @date 2013-3-4
+ * 
  */
 @Repository
 public class UserDaoImpl implements UserDao{
