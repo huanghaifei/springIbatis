@@ -14,6 +14,7 @@ public interface UserDao {
 	
     /**
      * 更新用户级别
+     * 
      */
 	public void updateActivate(User user);
 }
